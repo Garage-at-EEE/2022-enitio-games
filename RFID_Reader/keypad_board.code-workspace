@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "..\\keypad_board"
+		},
+		{
+			"name": "DIP_RFID",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
